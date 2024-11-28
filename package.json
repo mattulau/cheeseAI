@@ -1,0 +1,15 @@
+{
+  "name": "cheese-bot",
+  "version": "1.0.0",
+  "description": "Cheese AI bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "/cheese"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}

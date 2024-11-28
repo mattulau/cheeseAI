@@ -1,1 +1,2 @@
-This is currently a Discord Bot that is a work in progress.
+This bot is an AI assistant.
+It is written in Javascript

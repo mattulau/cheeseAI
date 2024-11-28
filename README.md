@@ -1,2 +1,2 @@
-This bot is an AI assistant.\n
+This bot is an AI assistant.
 It is written in Javascript
